@@ -1,0 +1,174 @@
+.contact-sec {
+  overflow: hidden;
+  padding-top: 95px;
+  padding-bottom: 85px;
+  color: #111;
+}
+.contact-sec h3 {
+  font-size: 24px;
+  line-height: 26px;
+  color: #111;
+  font-weight: 700;
+  margin: 0 0 41px;
+}
+.contact-sec .contact-list {
+  overflow: hidden;
+  margin: 0 0 25px;
+  color: #555;
+  padding: 0 0 12px;
+  position: relative;
+}
+.contact-sec .contact-list li {
+  overflow: hidden;
+
+  display: flex;
+
+  align-items: center;
+  margin: 0 0 10px;
+}
+
+.contact-sec .contact-list li a {
+  color: black;
+}
+
+.contact-sec .contact-list li i {
+  margin-right: 13px;
+}
+.contact-sec h3 {
+  font-size: 24px;
+  line-height: 26px;
+  color: #111;
+  font-weight: 700;
+  margin: 0 0 41px;
+}
+.contact-sec .hour-list {
+  overflow: hidden;
+  margin: 0;
+  color: #555;
+}
+.contact-sec .hour-list li {
+  overflow: hidden;
+  margin: 0 0 10px;
+}
+.contact-sec .marg {
+  margin: 0 0 14px;
+}
+.contact-sec h3 {
+  font-size: 24px;
+  line-height: 26px;
+  color: #111;
+  font-weight: 700;
+  margin: 0 0 41px;
+}
+.contact-sec p {
+  margin: 0 0 43px;
+}
+.contact-sec .contact-form {
+  width: 100%;
+  overflow: hidden;
+}
+fieldset {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  min-width: 0;
+}
+.contact-sec .contact-form .form-group {
+  margin: 0 0 75px;
+  overflow: hidden;
+}
+.contact-sec .contact-form .col:first-child {
+  padding: 0 15px 0 0;
+}
+.contact-sec .contact-form .col {
+  width: 50%;
+  float: left;
+  padding: 0 0 0 15px;
+}
+.contact-sec .contact-list:before {
+  position: absolute;
+  content: "";
+  z-index: -1;
+  left: 0;
+  top: auto;
+  background-color: #c19070;
+  bottom: 0;
+  right: auto;
+  width: 60px;
+  height: 1px;
+}
+.contact-sec .contact-form .form-control {
+  font-size: 14px;
+  line-height: 16px;
+  color: #acacac;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #e7e7e7;
+  outline: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 6px 0;
+}
+.form-control {
+  display: block;
+  width: 100%;
+  height: 39px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.857;
+  color: #555555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+  -webkit-transition: border-color ease-in-out 0.15s,
+    box-shadow ease-in-out 0.15s;
+  -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+.contact-sec .contact-form textarea {
+  width: 100%;
+  resize: none;
+  margin: 0 0 31px;
+}
+.contact-sec .contact-form .col {
+  width: 50%;
+  float: left;
+  padding: 0 0 0 15px;
+}
+.contact-sec .contact-form .btn:hover {
+  border-color: #f57c1b;
+}
+.contact-sec .contact-form .btn:hover {
+  background: none;
+  color: #111;
+}
+.contact-sec .contact-form .btn {
+  color: #fff;
+  outline: none;
+  box-shadow: none;
+  padding: 10px 18px;
+}
+.contact-sec .contact-form .btn {
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+  font-weight: 700;
+  display: inline-block;
+  vertical-align: middle;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #f57c1b;
+  padding: 13px 34px;
+  border-radius: 0;
+  transition: all 0.25s linear;
+}
+.map .container-fluid {
+  width: 100%;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}

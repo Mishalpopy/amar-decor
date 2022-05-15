@@ -1,0 +1,13 @@
+.header-wraper {
+  background-color: #f8f7f5 !important;
+  padding: 60px 0 60px 0;
+}
+.header-wraper .open-heading {
+  text-align: center;
+}
+.header-wraper .open-heading h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: lighter;
+  font-size: 46px;
+  line-height: 60px;
+}

@@ -1,0 +1,29 @@
+.abt-desc {
+  padding: 70px 0;
+}
+.abt-desc svg:not(:root).svg-inline--fa {
+  overflow: visible;
+}
+.abt-desc .svg-inline--fa.fa-w-11 {
+  width: 2em;
+}
+.abt-desc .darkg {
+  color: #f57d1c;
+  font-weight: 700;
+  font-size: 18px;
+  padding-bottom: 1.5rem !important;
+  padding-top: 1.5rem !important;
+}
+.abt-desc .font-36 {
+  font-size: 36px;
+}
+.abt-desc .lightgrey {
+  color: #999;
+  font-size: 15px;
+}
+.abt-desc .svg-inline--fa.fa-w-16 {
+  width: 2em;
+}
+.abt-desc .about-vid {
+  position: relative;
+}
